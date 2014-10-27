@@ -25,24 +25,24 @@ p, li { white-space: pre-wrap; }
  </properties>
  <views>
   <breadboardView>
-   <layers image="breadboard/arch_pro_v1_breadboard.svg">
+   <layers image="breadboard/seeed_arch_pro_v1_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/arch_pro_v1_schematic.svg">
+   <layers image="schematic/seeed_arch_pro_v1_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/arch_pro_v1_pcb.svg">
+   <layers image="pcb/seeed_arch_pro_v1_pcb.svg">
     <layer layerId="copper1"/>
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
    </layers>
   </pcbView>
   <iconView>
-   <layers image="icon/arch_pro_v1_icon.svg">
+   <layers image="icon/seeed_arch_pro_v1_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
